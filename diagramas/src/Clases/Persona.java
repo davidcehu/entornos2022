@@ -10,4 +10,10 @@ public class Persona {
 		this.nombre = "desconocido";
 	}
 
+	public Persona(String name) {
+		super();
+		this.nombre = name;
+	}
+
+	
 }
